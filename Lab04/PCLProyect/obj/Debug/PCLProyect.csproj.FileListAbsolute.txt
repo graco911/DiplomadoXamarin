@@ -1,0 +1,14 @@
+C:\Users\Carlos Alberto\Documents\Visual Studio 2015\Projects\Diplomado Xamarin\Lab04\PCLProyect\bin\Debug\PCLProyect.dll
+C:\Users\Carlos Alberto\Documents\Visual Studio 2015\Projects\Diplomado Xamarin\Lab04\PCLProyect\bin\Debug\PCLProyect.pdb
+C:\Users\Carlos Alberto\Documents\Visual Studio 2015\Projects\Diplomado Xamarin\Lab04\PCLProyect\obj\Debug\PCLProyect.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Alberto\Documents\Visual Studio 2015\Projects\Diplomado Xamarin\Lab04\PCLProyect\obj\Debug\PCLProyect.dll
+C:\Users\Carlos Alberto\Documents\Visual Studio 2015\Projects\Diplomado Xamarin\Lab04\PCLProyect\obj\Debug\PCLProyect.pdb
+C:\Users\Carlos Alberto\Documents\Visual Studio 2015\Projects\Diplomado Xamarin\Lab04\PCLProyect\bin\Debug\SALLab04.dll
+C:\Users\Carlos Alberto\Documents\Visual Studio 2015\Projects\Diplomado Xamarin\Lab04\PCLProyect\obj\Debug\PCLProyect.dll.mdb
+C:\Users\Carlos Alberto\Documents\Visual Studio 2015\Projects\Diplomado Xamarin\Lab04\PCLProyect\bin\Debug\PCLProyect.dll.mdb
+C:\Users\Carlos Alberto\Documents\Visual Studio 2015\Projects\Diplomado Xamarin\Lab04\PCLProyect\obj\Debug\PCLProyect.dll.mdb
+C:\Users\Carlos Alberto\Documents\Visual Studio 2015\Projects\Diplomado Xamarin\Lab04\PCLProyect\bin\Debug\PCLProyect.dll.mdb
+C:\Users\Carlos Alberto\Documents\Visual Studio 2015\Projects\Diplomado Xamarin\Lab04\PCLProyect\obj\Debug\PCLProyect.dll.mdb
+C:\Users\Carlos Alberto\Documents\Visual Studio 2015\Projects\Diplomado Xamarin\Lab04\PCLProyect\bin\Debug\PCLProyect.dll.mdb
+C:\Users\Carlos Alberto\Documents\Visual Studio 2015\Projects\Diplomado Xamarin\Lab04\PCLProyect\obj\Debug\PCLProyect.dll.mdb
+C:\Users\Carlos Alberto\Documents\Visual Studio 2015\Projects\Diplomado Xamarin\Lab04\PCLProyect\bin\Debug\PCLProyect.dll.mdb
